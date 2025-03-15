@@ -7,11 +7,12 @@
 - This setup will give us a strong, secure, and cost-effective online shopping solution that can grow as needed.
 
 ## 🛠️ Technologies Used
-
-* **Frontend:** TSX, VitePress, HTML, CSS
-* **Backend:** PHP, NodeJS
-* **Cloud Platform:** Microsoft Azure
-
+### 🎨 Frontend:
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=007acc) ![VitePress](https://img.shields.io/badge/VitePress-000000?style=for-the-badge&logo=VitePress) ![HTML](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=HTML5) ![CSS](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=CSS&logoColor=663399)
+### ⚙️ Backend:
+![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=PHP) ![NodeJS](https://img.shields.io/badge/Node.JS-000000?style=for-the-badge&logo=Node.JS) ![PNPM](https://img.shields.io/badge/pnpm-000000?style=for-the-badge&logo=pnpm&logoColor=f69220)
+### ☁️ Cloud Platform: 
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure)
 ## 📝 Azure Services Utilized
 
 * **Azure Virtual Networks (AVN):** Provides a secure and isolated network environment for resources, enabling secure communication and segmentation.
