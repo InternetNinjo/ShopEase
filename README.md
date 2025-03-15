@@ -5,13 +5,20 @@
 
 - This setup will give us a strong, secure, and cost-effective online shopping solution that can grow as needed.
 
+##   Technologies Used
+
+* **Frontend:** TSX, VitePress, HTML, CSS
+* **Backend:** PHP, NodeJS
+* **Cloud Platform:** Microsoft Azure
+
+##   Azure Services Utilized
+
+* **Azure Virtual Networks (AVN):** Provides a secure and isolated network environment for resources, enabling secure communication and segmentation.
+* **Azure Virtual Machine Scale Sets (VMSS):** Ensures automatic scaling of virtual machine instances based on demand, optimizing resource utilization and providing high availability.
+* **Azure Application Gateway:** A Layer 7 load balancer that provides application-level routing, SSL termination, and a Web Application Firewall (WAF) for enhanced security and performance.
 ## Deployment Algorithm
 
-### Start of Algorithm
-
 ![algorithm](https://github.com/user-attachments/assets/c2124755-3b1f-46c3-913d-e4aa257d7cfc)
-
-### End of Algorithm
 
 ---
 
