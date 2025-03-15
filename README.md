@@ -8,7 +8,7 @@
 
 ### Start of Algorithm
 
-![algorithm](https://github.com/user-attachments/assets/16c7eef7-ca06-401d-8368-05b6692ca07f)
+![algorithm](https://github.com/user-attachments/assets/c2124755-3b1f-46c3-913d-e4aa257d7cfc)
 
 ### End of Algorithm
 ---
