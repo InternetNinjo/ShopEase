@@ -1,4 +1,4 @@
-![algorithm](https://github.com/user-attachments/assets/6685d015-0bd8-4986-9c65-b975fef5445c)#   E-commerce Website Deployment on Azure
+# E-commerce Website Deployment on Azure
 
 ##   Overview
 * We plan to build an online store using Microsoft Azure. We want it to handle a lot of customers and work reliably. To do this, we'll use Azure services like Virtual Networks, Virtual Machine Scale Sets, and Application Gateway. 
@@ -8,7 +8,7 @@
 
 ### Start of Algorithm
 
-
+![algorithm](https://github.com/user-attachments/assets/16c7eef7-ca06-401d-8368-05b6692ca07f)
 
 ### End of Algorithm
 ---
